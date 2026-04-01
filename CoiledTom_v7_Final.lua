@@ -1,4 +1,3 @@
--- CoiledTom Hub | Protected
 local IIlllIlIlIIIIIlllIIIllllIlllllII=string.char
 local llllIllIIllllllIlIlllIllIllIllIIlIlIllIIllll=table.concat
 local lIlIIIlllIIIIIlIIIllIlIlIIlIlllI=table.insert
